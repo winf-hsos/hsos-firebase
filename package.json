@@ -1,6 +1,6 @@
 {
   "name": "hsos-firebase",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A library to simplify initialization and use of common firebase operations. Developed at the University of Applied Sciences in Osnabrueck.",
   "main": "index.js",
   "scripts": {
@@ -19,7 +19,5 @@
     "url": "https://github.com/winf-hsos/hsos-firebase/issues"
   },
   "homepage": "https://github.com/winf-hsos/hsos-firebase#readme",
-  "dependencies": {
- 
-  }
+  "dependencies": {}
 }
