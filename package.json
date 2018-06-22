@@ -1,0 +1,25 @@
+{
+  "name": "hsos-firebase",
+  "version": "0.0.1",
+  "description": "A library to simplify initialization and use of common firebase operations. Developed at the University of Applied Sciences in Osnabrueck.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/winf-hsos/hsos-firebase.git"
+  },
+  "keywords": [
+    "firebase"
+  ],
+  "author": "Nicolas Meseth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/winf-hsos/hsos-firebase/issues"
+  },
+  "homepage": "https://github.com/winf-hsos/hsos-firebase#readme",
+  "dependencies": {
+    "firebase": "^5.1.0"
+  }
+}
