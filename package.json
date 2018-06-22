@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/winf-hsos/hsos-firebase#readme",
   "dependencies": {
-    "firebase": "^5.1.0"
+ 
   }
 }
