@@ -1,6 +1,6 @@
 {
   "name": "hsos-firebase",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A library to simplify initialization and use of common firebase operations. Developed at the University of Applied Sciences in Osnabrueck.",
   "main": "index.js",
   "scripts": {
