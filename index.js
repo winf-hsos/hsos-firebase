@@ -1,4 +1,4 @@
-if (!firebase) {
+if (typeof firebase == "undefined") {
     console.error("Please load firebase API!");
 }
 
